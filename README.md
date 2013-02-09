@@ -1,6 +1,6 @@
 # Theorist
 
-TODO: Write a gem description
+Theorist knows a little music theory. He can generate scales and harmonized chord progressions.
 
 ## Installation
 
